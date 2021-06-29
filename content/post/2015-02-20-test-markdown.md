@@ -36,3 +36,4 @@ foo(3)
 
 test edit
 test edit1
+test edit2
